@@ -1,0 +1,9 @@
+1. create file
+
+2. add parameters
+
+3. add functions
+
+4. create variables
+
+5. call function
