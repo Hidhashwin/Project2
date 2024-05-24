@@ -7,3 +7,5 @@
 4. create variables
 
 5. call function
+
+6. add new functions
